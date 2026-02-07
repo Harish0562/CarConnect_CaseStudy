@@ -142,3 +142,20 @@ Use predefined custom exceptions to handle error cases such as:
 **Conclusion**
 
 CarConnect provides a modular and scalable architecture for a car rental platform, supporting secure authentication, vehicle management, real-time reservations, and admin reporting functionalities.
+
+---
+
+## Data Science Extension (Interview-Ready Project)
+
+This repository now includes a **fully end-to-end data science project** that simulates a rental market and trains a pricing/demand model using a reproducible ML pipeline.
+
+**Location:** `data_science_project/`
+
+**Highlights:**
+
+1. Synthetic data generation with seasonality, holidays, and local events.
+2. Data validation and feature engineering steps.
+3. Training + evaluation pipeline with saved model artifacts.
+4. Ready-to-run scripts and documentation for interview discussion.
+
+See `data_science_project/README.md` for details and how to run the pipeline.
